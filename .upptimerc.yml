@@ -1,23 +1,21 @@
-  owner: csesuman   # ← put your actual GitHub username here
-  repo: upptime
+owner: csesuman
+repo: upptime
 
-  sites:
-    - name: Golestan Dashboard
-      url: https://golestan.talkmybot.com
-    - name: Talk My Bot
-      url: https://talkmybot.com
-
-  notifications:
-    - type: email
-      email: sumanbhadrasuman@gmail.com
-
-  status-website:
-    baseUrl: /upptime
-    name: Talk My Bot Status
-    introTitle: "**Talk My Bot** — service status"
-    introMessage: Real-time uptime monitoring powered by GitHub Actions.
-    navbar:
-      - title: Status
-        href: /
-      - title: GitHub
-        href: https://github.com/$OWNER/$REPO
+sites:
+  - name: Golestan Dashboard
+    url: https://golestan.talkmybot.com
+  - name: Talk My Bot
+    url: https://talkmybot.com
+notifications:
+  - type: email
+    email: sumanbhadrasuman@gmail.com
+status-website:
+  baseUrl: /upptime
+  name: Talk My Bot Status
+  introTitle: "**Talk My Bot** — service status"
+  introMessage: Real-time uptime monitoring powered by GitHub Actions.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
