@@ -22,17 +22,17 @@
     "url": "https://talkmybot.com",
     "icon": "https://icons.duckduckgo.com/ip3/talkmybot.com.ico",
     "slug": "talk-my-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.83%",
-    "time": 1103,
-    "timeDay": 1010,
-    "timeWeek": 876,
-    "timeMonth": 1420,
-    "timeYear": 1103,
+    "time": 1848,
+    "timeDay": 25992,
+    "timeWeek": 7139,
+    "timeMonth": 2922,
+    "timeYear": 1848,
     "dailyMinutesDown": {
       "2026-07-19": 153
     }
